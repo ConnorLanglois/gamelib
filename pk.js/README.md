@@ -17,9 +17,9 @@ Clone the repo.
 
 Open the index html file:
 
-```
-demo.html
-```
+	```
+	src/demo.html
+	```
 
 ## Deployment
 

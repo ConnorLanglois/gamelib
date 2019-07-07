@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 ```
-GameLib
+game-lib
 ```
 
 ### Installing
@@ -19,9 +19,9 @@ Clone the repo.
 
 Open the index html file:
 
-```
-demo.html
-```
+	```
+	src/demo.html
+	```
 
 ## Deployment
 
